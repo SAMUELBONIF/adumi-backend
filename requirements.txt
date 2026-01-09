@@ -1,5 +1,6 @@
 Django==5.2.9
-djangorestframework==3.20.0
+djangorestframework==3.16.1
 django-cors-headers==4.3.0
 gunicorn==22.1.0
-psycopg2-binary==2.9.9  # apenas se for usar PostgreSQL
+psycopg2-binary==2.9.9  # se usar PostgreSQL
+
