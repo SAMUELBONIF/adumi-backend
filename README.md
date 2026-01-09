@@ -10,7 +10,7 @@ Garante integridade dos dados, incluindo regras de negócio como impedir a exclu
 - Python 3.10  
 - Django 5.2  
 - Django REST Framework  
-- SQLite / PostgreSQL  
+- SQLite  
 
 ---
 
@@ -50,7 +50,7 @@ Garante integridade dos dados, incluindo regras de negócio como impedir a exclu
 ## Configuração e Teste
 
 1. Clone o repositório:
-     git clone https://github.com/seu-usuario/adumi-backend.git
+ git clone https://github.com/seu-usuario/adumi-backend.git
  cd adumi-backend
 
 2.Criar e ativar ambiente virtual:
