@@ -40,6 +40,8 @@ CORS_ALLOWED_ORIGINS = [
     "https://adumi-front-end-52-fenkh0hwb.vercel.app"
 ]
 
+CORS_ALLOW_ALL_ORIGINS = True
+
 # Middleware
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
